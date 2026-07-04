@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 # 🏁 Garage Entrance
 
 ## Hi, I'm Bolutife 👋
@@ -105,23 +109,22 @@ It's one of those cars that reminds me why I fell in love with engineering.
 
 # 📊 Telemetry
 
-[Stats Card]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tife28&show_icons=true)
 
-[Top Languages Card]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tife28&layout=compact)
 
-[GitHub Streak]
 
 ---
 
 # 🌍 Let's Connect
 
-(LinkedIn, Email)
+Linkedin: https://www.linkedin.com/in/boluwatife-ekundayo/
 ---
 
 > "Still the kind of person who stops and stares when a beautiful car drives by."
 ---
 
-👀 Visitors: [badge]
+👀 Visitors: ![](https://komarev.com/ghpvc/?username=Tife28&label=Garage%20Visitors&color=blue&style=flat)
 
 Thanks for stopping by!
 
