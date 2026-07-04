@@ -1,6 +1,14 @@
 # 🏁 Garage Entrance
 
-# Hi, I'm Bolutife 👋
+## Hi, I'm Bolutife 👋
+
+![C](https://img.shields.io/badge/C-Language-blue)
+![C++](https://img.shields.io/badge/C++-Programming-blue)
+![Python](https://img.shields.io/badge/Python-Programming-yellow)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![CAN Bus](https://img.shields.io/badge/CAN-Bus-success)
+![Embedded](https://img.shields.io/badge/Embedded-Systems-red)
+![Cybersecurity](https://img.shields.io/badge/Automotive-Cybersecurity-black)
 
 ### Embedded Systems Engineer • Automotive Cybersecurity Enthusiast • Professional Car Admirer 🚗
 
@@ -18,7 +26,7 @@ Always staring at cool cars.
 
 ---
 
-# 🚗 Driver Profile
+## 🚗 Driver Profile
 
 
 Cars are what pulled me into engineering.
@@ -56,30 +64,64 @@ My long-term goal is to contribute to the software running inside the next gener
 
 ---
 
-# 📚 Currently in the Workshop
+## 📚 Currently in the Workshop
 
-(Currently Learning)
+- AUTOSAR
+- CAN FD
+- Automotive Ethernet
+- UDS
+- ISO-TP
+- FreeRTOS
+- STM32 HAL
 
 ---
 
-# 🏎 Car of the Week
+## 🏎 Car of the Week
 
-(Image from assets/ + description)
+**Porsche 911 GT3 RS**
+
+Why?
+
+Because it's an engineering masterpiece.
+
+The naturally aspirated flat-six.
+The insane aerodynamics.
+The obsession with performance.
+
+It's one of those cars that reminds me why I fell in love with engineering.
 
 ---
 
-# ⚡ Pit Lane Facts
+## ⚡ Pit Lane Facts
 
-(Random facts)
+
+- 🚗 I can spend an unhealthy amount of time admiring a beautiful car.
+- 🔧 I enjoy figuring out how systems work.
+- ☕ Coffee improves debugging.
+- 🐧 Linux feels like home.
+- 💻 I enjoy turning ideas into embedded systems.
 
 ---
 
 # 📊 Telemetry
 
-(GitHub Stats cards)
+[Stats Card]
+
+[Top Languages Card]
+
+[GitHub Streak]
 
 ---
 
 # 🌍 Let's Connect
 
 (LinkedIn, Email)
+---
+
+> "Still the kind of person who stops and stares when a beautiful car drives by."
+---
+
+👀 Visitors: [badge]
+
+Thanks for stopping by!
+
