@@ -1,16 +1,45 @@
-## Hi there 👋
+# 🏁 Garage Entrance
 
-<!--
-**Tife28/Tife28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(Introduction)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚗 Driver Profile
+
+(About Me)
+
+---
+
+# 🛠 Tech Garage
+
+(Skills)
+
+---
+
+# 📚 Currently in the Workshop
+
+(Currently Learning)
+
+---
+
+# 🏎 Car of the Week
+
+(Image from assets/ + description)
+
+---
+
+# ⚡ Pit Lane Facts
+
+(Random facts)
+
+---
+
+# 📊 Telemetry
+
+(GitHub Stats cards)
+
+---
+
+# 🌍 Let's Connect
+
+(LinkedIn, Email)
